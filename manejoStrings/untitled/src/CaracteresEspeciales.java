@@ -11,6 +11,8 @@ public class CaracteresEspeciales {
         System.out.println("cadena2 = " + cadena2);
 
         System.out.println("* imprimir con COMILLAS simples *");
+        var cadena3 = "Hola \'Mundo\'";
+        System.out.println("cadena3 = " + cadena3);
 
     }
 }
